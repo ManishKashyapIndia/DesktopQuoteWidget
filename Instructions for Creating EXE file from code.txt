@@ -1,8 +1,0 @@
-How to create .exe file from code -
-1) Keep the icon file (quote_widget.ico) in the same folder in which the code is there.
-2) Run command prompt (CMD) in the same folder in which both these files are kept.
-3) Then run the following command on CMD-
-
-pyinstaller --onefile --noconsole --clean --icon=quote_widget.ico --name "quote_widget" quote_widget.py
-
-4) Find the executable (.exe) file in the folder "dist" folder created in the same folder after step 3.
