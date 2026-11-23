@@ -1,4 +1,4 @@
-# Windows Quote Widget (Version 2) - VIBE CODED IN GEMINI BY GOOGLE
+# Windows Quote Widget (Version 2)
 
 A lightweight, offline, and customizable desktop quote widget for Windows that displays inspiring quotes directly on your desktop without appearing in the Windows Taskbar. Built with Python, it pairs a frameless, customizable UI with Excel-based quote management, hover-activated controls, and 52 Dark and Light mode presets.
 
@@ -173,6 +173,7 @@ pyinstaller --onefile --windowed --icon=app_icon.ico --add-data "app_icon.ico;."
 ## Author
 
 * **GitHub:** [github.com/ManishKashyapIndia](https://github.com/ManishKashyapIndia)
+* VIBE CODED IN GEMINI
 
 
 * **Version:** 2
